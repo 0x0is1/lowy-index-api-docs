@@ -1,5 +1,5 @@
 # Lowy Institute Asia Power Index API Documentation (Unofficial)
-___
+
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/0x0is1) ![Deprecation](https://img.shields.io/badge/Deprecation-No-orange)
 
 ### Institute Introduction
