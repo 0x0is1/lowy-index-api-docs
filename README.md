@@ -21,7 +21,7 @@ The annual [Asia Power Index](https://power.lowyinstitute.org/about/) — launch
 | `/world.json`         |   None        | `http-get`   | World topology data           |
 | `/countries.json`     |   None        | `http-get`   | Get List of all countries with `power` and various `score` including **Country's slug** |
 | `{country_slug}.json` | Country Slug  | `http-get`   | Get `score`, `influence`, `lat-long` and other additional data. |
-| `/data/{Year}.json`   |   None        | `http-get`   | Get `score`, `rank` and `country code` of Countries by Year (2018+) |
+| `/data/{Year}.json`   |   Year        | `http-get`   | Get `score`, `rank` and `country code` of Countries by Year (2018+) |
 | `/network-power.json` |   None        | `http-get`   | Get `Economic`, `Cultural`, `Defence` and `Diplomatic` networks of countries |
 ___
 
